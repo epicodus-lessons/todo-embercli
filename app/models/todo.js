@@ -31,6 +31,11 @@ Todo.reopenClass({
         id: 3,
         title: 'Learn Ember testing',
         isCompleted: true
+      },
+      {
+        id:4,
+        title: 'Test more fixtures',
+        isCompleted: false
       }
     ]
 })
